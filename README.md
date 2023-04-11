@@ -1,7 +1,7 @@
 ### Hello Awesome Person 👋
 
 🤵🏽‍♂️   I'm Joshua Mba,   
-📚   I'm a Back-end Developer (Nodejs, PHP)  
+📚   I'm a Back-end Developer (Js, Ts, Nestjs, Nodejs, PHP)  
 🖊   I write instructions that humans read but computers obey,  
 🎨   I'm an unconventional designer that loves playing around with colors & Shapes,  
 💪   I'm on a Journey to becoming a World-class Blockchain Developer
