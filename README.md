@@ -10,4 +10,4 @@
 
 Fun (True) Fact: I have mastered building sales processes to sell products
 
-[![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=mbajoshuac&count_private=true&show_icons=true&theme=gotham)](https://github.com/murewaashiru/github-readme-stats)
+
